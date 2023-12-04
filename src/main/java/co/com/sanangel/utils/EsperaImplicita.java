@@ -1,4 +1,4 @@
-package com.youtube.utils;
+package co.com.sanangel.utils;
 public class EsperaImplicita {
   public void esperaImplicita (int segundos){
     try {

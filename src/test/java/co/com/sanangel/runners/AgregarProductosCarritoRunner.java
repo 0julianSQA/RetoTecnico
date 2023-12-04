@@ -10,5 +10,5 @@ import org.junit.runner.RunWith;
         glue  = "co.com.sanangel.stepDefinitions",
         snippets = CucumberOptions.SnippetType.CAMELCASE
 )
-public class AgregarProductosCarrito {
+public class AgregarProductosCarritoRunner {
 }

@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5960433e-ca06-46bb-8ba7-193e35511443" name="Changes" comment="" />
+    <list default="true" id="5960433e-ca06-46bb-8ba7-193e35511443" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sanangel/pageObject/CarritoPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sanangel/pageObject/CarritoPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sanangel/pageObject/DetallePrimerProductoPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sanangel/pageObject/DetallePrimerProductoPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sanangel/pageObject/DetalleSegundoProductoPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sanangel/pageObject/DetalleSegundoProductoPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sanangel/pageObject/PaginaInicialPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sanangel/pageObject/PaginaInicialPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sanangel/steps/CarritoStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sanangel/steps/CarritoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sanangel/steps/DetallePrimerProductoStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sanangel/steps/DetallePrimerProductoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sanangel/steps/DetalleSegundoProductoStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sanangel/steps/DetalleSegundoProductoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sanangel/steps/PaginaInicialStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sanangel/steps/PaginaInicialStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sanangel/utils/EsperaImplicita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sanangel/utils/EsperaImplicita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/sanangel/runners/AgregarProductosCarritoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/sanangel/runners/AgregarProductosCarritoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/sanangel/stepDefinitions/AgregarProductosCarritoStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/sanangel/stepDefinitions/AgregarProductosCarritoStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/agregarProductosCarrito.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/agregarProductosCarrito.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +31,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,9 +51,46 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.com.sanangel.utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AgregarProductosCarritoRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;co.com.sanangel.runners.AgregarProductosCarritoRunner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AgregarProductosCarritoRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
